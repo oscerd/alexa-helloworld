@@ -13,19 +13,6 @@
       <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
     </license>
   </licenses>
-  <developers>
-    <developer>
-      <name>Alexa Skills Kit</name>
-      <email>ask-sdk-java@amazon.com</email>
-      <organization>Alexa</organization>
-      <organizationUrl>http://developer.amazon.com/ask</organizationUrl>
-    </developer>
-  </developers>
-  <scm>
-    <connection>scm:git:https://github.com/amzn/alexa-skills-kit-java.git</connection>
-    <developerConnection>scm:git:https://github.com/amzn/alexa-skills-kit-java.git</developerConnection>
-    <url>https://github.com/amzn/alexa-skills-kit-java.git</url>
-  </scm>
 
   <dependencies>
     <dependency>
